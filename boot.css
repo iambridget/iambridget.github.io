@@ -1,0 +1,40 @@
+body {
+	background-image: url(https://swall.teahub.io/photos/small/137-1371882_flatzero-by-articted-data-src-low-poly-wallpaper.jpg);
+	background-size: cover;
+}
+
+h1 {
+	font-family: fantasy;
+		color: white;
+		text-align: center;
+}
+
+.btn-primary:hover{
+  			background-color: black;
+  			border-color: black;
+  			text-decoration-color: white;
+}
+
+.btn-primary {
+	background-color: white;
+	border-color: black;
+}
+
+span {
+	color: black;
+	font-family: serif;
+}
+
+span:hover {
+     color: white;
+}
+
+input {
+	color: white;
+	background-color: black;
+	font-family: cursive;
+}
+input:hover {
+	background-color: white;
+	color: black;
+}

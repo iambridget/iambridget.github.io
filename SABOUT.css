@@ -1,0 +1,11 @@
+.btn-primary {
+	background-color: black;
+	border-color: black;
+}
+
+form {
+	display: inline-flex;
+	flex-direction: column;
+	margin-right: auto;
+	margin-left: auto;
+}
